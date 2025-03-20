@@ -1,0 +1,135 @@
+Subject_id,Sum,Species,Genus,Family,Molecule_type,Group,Host,Label,risk
+NC_038495.1,154.9962955,Gemygorvirus ptero1,Gemygorvirus,Genomoviridae,ssDNA,Genomoviridae,Others,Vertebrate,0.1
+NC_038701.1,118.7807815,Tianjin totivirus,,Totiviridae,dsRNA,Totiviridae,Others,Vertebrate,0.1
+NC_032426.1,59.96077826,Bastrovirus-like_virus/VietNam/Bat/17819_21,,Astroviridae,ssRNA(+),Astroviridae,Others,Vertebrate,0.1
+NC_038393.1,19.41264052,Bat associated cyclovirus 2,Cyclovirus,Circoviridae,ssDNA(+/-),Circoviridae,Others,Vertebrate,0.1
+NC_025219.1,8.292713883,Cripavirus NB-1/2011/HUN,Cripavirus,Dicistroviridae,ssRNA(+),Dicistroviridae,Others,Vertebrate,0.1
+NC_025791.1,0.718986686,Bat associated cyclovirus 12,Cyclovirus,Circoviridae,ssDNA(+/-),Circoviridae,Others,Vertebrate,0.1
+NC_029052.1,151.8671718,Goose dicistrovirus,,Dicistroviridae,ssRNA(+),Dicistroviridae,Birds,Vertebrate,0.1
+NC_026161.1,47.04502038,Gemygorvirus sewopo1,Gemygorvirus,Genomoviridae,ssDNA,Genomoviridae,Birds,Vertebrate,0.1
+NC_040344.1,42.47533619,Picobirnavirus sp.,Picobirnavirus,Picobirnaviridae,dsRNA,Picobirnaviridae,Birds,Vertebrate,0.1
+NC_030139.1,34.7430444,Gemykibivirus sewopo1,Gemykibivirus,Genomoviridae,ssDNA,Genomoviridae,Birds,Vertebrate,0.1
+NC_030138.1,22.35875308,Gemygorvirus malas1,Gemygorvirus,Genomoviridae,ssDNA,Genomoviridae,Birds,Vertebrate,0.1
+NC_021312.1,16.46782481,Pestivirus G,Pestivirus,Flaviviridae,ssRNA(+),Flaviviridae,Birds,Vertebrate,0.1
+NC_025731.1,12.8554464,Gemykibivirus blabi1,Gemykibivirus,Genomoviridae,ssDNA,Genomoviridae,Birds,Vertebrate,0.1
+NC_033793.1,11.12901396,Megrivirus A,Megrivirus,Picornaviridae,ssRNA(+),Picornaviridae,Birds,Vertebrate,0.1
+NC_030141.1,8.242005881,Gemycircularvirus chicas1,Gemycircularvirus,Genomoviridae,ssDNA,Genomoviridae,Birds,Vertebrate,0.1
+NC_025734.1,5.612869454,Gemycircularvirus geras1,Gemycircularvirus,Genomoviridae,ssDNA,Genomoviridae,Birds,Vertebrate,0.1
+NC_040639.1,4.544763226,Chicken associated cyclovirus 2,Cyclovirus,Circoviridae,ssDNA(+/-),Circoviridae,Birds,Vertebrate,0.1
+NC_025735.1,1.78650794,Gemycircularvirus geras2,Gemycircularvirus,Genomoviridae,ssDNA,Genomoviridae,Birds,Vertebrate,0.1
+NC_024120.1,1.755921419,Megrivirus A,Megrivirus,Picornaviridae,ssRNA(+),Picornaviridae,Birds,Vertebrate,0.1
+NC_038406.1,0.718986686,Chicken associated cyclovirus 1,Cyclovirus,Circoviridae,ssDNA(+/-),Circoviridae,Birds,Vertebrate,0.1
+NC_025732.1,0.462900414,Gemykibivirus blaro1,Gemykibivirus,Genomoviridae,ssDNA,Genomoviridae,Birds,Vertebrate,0.1
+NC_023987.1,0.293648353,Mosavirus A,Mosavirus,Picornaviridae,ssRNA(+),Picornaviridae,Birds,Vertebrate,0.1
+NC_025737.1,0.268811152,Gemycircularvirus geras3,Gemycircularvirus,Genomoviridae,ssDNA,Genomoviridae,Birds,Vertebrate,0.1
+NC_030460.1,0.213567451,Circovirus-like genome DCCV-10,,Circoviridae,ssDNA(+/-),Circoviridae,Birds,Vertebrate,0.1
+NC_036582.1,78.29971816,Flamingopox virus FGPVKD09,Avipoxvirus,Poxviridae,dsDNA,Poxviridae,Birds,Vertebrate,0.1
+NC_028494.1,1.642440767,Penguinpox virus,Avipoxvirus,Poxviridae,dsDNA,Poxviridae,Birds,Vertebrate,0.1
+NC_005309.1,1.313573036,Canarypox virus,Avipoxvirus,Poxviridae,dsDNA,Poxviridae,Birds,Vertebrate,0.1
+NC_034266.1,0.827511778,Columbid alphaherpesvirus 1,Mardivirus,Herpesviridae,dsDNA,Herpesviridae,Birds,Vertebrate,0.1
+NC_030140.1,0.806433457,Gemycircularvirus chicas2,Gemycircularvirus,Genomoviridae,ssDNA,Genomoviridae,Birds,Vertebrate,0.1
+NC_040379.1,0.34715224,Gemycircularvirus sp.,Gemycircularvirus,Genomoviridae,ssDNA,Genomoviridae,Birds,Vertebrate,0.1
+NC_040387.1,0.23280168,Pygoscelis adeliae polyomavirus 1,Gammapolyomavirus,Polyomaviridae,dsDNA,Polyomaviridae,Birds,Vertebrate,0.1
+NC_039034.1,0.078479741,Common midwife toad virus,Ranavirus,Iridoviridae,dsDNA,,Others,Vertebrate,0.1
+NC_008191.1,29.96331754,Rabbit coronavirus HKU14,Betacoronavirus,Coronaviridae,ssRNA(+),Coronaviridae,Others,Vertebrate,0.1
+NC_017083.1,6.384222422,Rabbit astrovirus TN/2208/2010,Mamastrovirus,Astroviridae,ssRNA(+),Astroviridae,Others,Vertebrate,0.1
+NC_039211.1,5.888569152,Aichivirus E,Kobuvirus,Picornaviridae,ssRNA(+),Picornaviridae,Others,Vertebrate,0.1
+NC_028363.1,3.150632206,Hepatovirus D,Hepatovirus,Picornaviridae,ssRNA(+),Picornaviridae,Others,Vertebrate,0.1
+NC_026011.1,1.642357119,China Rattus coronavirus HKU24,Betacoronavirus,Coronaviridae,ssRNA(+),Coronaviridae,Others,Vertebrate,0.1
+NC_032730.1,0.595864316,Lucheng Rn rat coronavirus,Alphacoronavirus,Coronaviridae,ssRNA(+),Coronaviridae,Others,Vertebrate,0.1
+AC_000017.1,646.9273921,Human mastadenovirus C,Mastadenovirus,Adenoviridae,dsDNA,Adenoviridae,Human,Vertebrate,1
+AC_000007.1,507.9772366,Human mastadenovirus C,Mastadenovirus,Adenoviridae,dsDNA,Adenoviridae,Human,Vertebrate,1
+NC_010277.2,66.17252457,Human polyomavirus 5,Alphapolyomavirus,Polyomaviridae,dsDNA,Polyomaviridae,Human,Vertebrate,1
+NC_001457.1,56.76201914,Gammapapillomavirus 1,Gammapapillomavirus,Papillomaviridae,dsDNA,Papillomaviridae,Human,Vertebrate,1
+NC_001368.1,27.14494446,Parvovirus NIH-CQV,,Parvoviridae,ssDNA(+/-),Parvoviridae,Human,Vertebrate,1
+NC_001531.1,20.17357824,Betapapillomavirus 1,Betapapillomavirus,Papillomaviridae,dsDNA,Papillomaviridae,Human,Vertebrate,1
+NC_026817.1,19.07863152,Gemygorvirus sewopo1,Gemygorvirus,Genomoviridae,ssDNA,Genomoviridae,Human,Vertebrate,1
+NC_001357.1,10.10119861,Alphapapillomavirus 7,Alphapapillomavirus,Papillomaviridae,dsDNA,Papillomaviridae,Human,Vertebrate,1
+NC_014953.1,9.409937883,Gammapapillomavirus 9,Gammapapillomavirus,Papillomaviridae,dsDNA,Papillomaviridae,Human,Vertebrate,1
+NC_001591.1,6.831146901,Betapapillomavirus 3,Betapapillomavirus,Papillomaviridae,dsDNA,Papillomaviridae,Human,Vertebrate,1
+NC_014406.1,6.353540701,Human polyomavirus 6,Deltapolyomavirus,Polyomaviridae,dsDNA,Polyomaviridae,Human,Vertebrate,1
+NC_001731.1,4.74956158,Molluscum contagiosum virus,Molluscipoxvirus,Poxviridae,dsDNA,Poxviridae,Human,Vertebrate,1
+NC_038496.1,2.978767185,Gemykibivirus humas3,Gemykibivirus,Genomoviridae,ssDNA,Genomoviridae,Human,Vertebrate,1
+NC_030447.1,2.45056801,Gemycircularvirus HV-GcV1,Gemycircularvirus,Genomoviridae,ssDNA,Genomoviridae,Human,Vertebrate,1
+NC_033781.1,1.10808767,Gammapapillomavirus 18,Gammapapillomavirus,Papillomaviridae,dsDNA,Papillomaviridae,Human,Vertebrate,1
+NC_007605.1,1.09493636,Human gammaherpesvirus 4,Lymphocryptovirus,Herpesviridae,dsDNA,Herpesviridae,Human,Vertebrate,1
+NC_000898.1,1.010860213,Human betaherpesvirus 6B,Roseolovirus,Herpesviridae,dsDNA,Herpesviridae,Human,Vertebrate,1
+NC_038308.1,0.790944966,Enterovirus D,Enterovirus,Picornaviridae,ssRNA(+),Picornaviridae,Human,Vertebrate,1
+NC_038418.1,0.718986686,Human associated cyclovirus 11,Cyclovirus,Circoviridae,ssDNA(+/-),Circoviridae,Human,Vertebrate,1
+NC_035211.1,0.643097113,Human fecal virus Jorvi4,,Circoviridae,ssDNA(+/-),Circoviridae,Human,Vertebrate,1
+NC_001716.2,0.621251436,Human betaherpesvirus 7,Roseolovirus,Herpesviridae,dsDNA,Herpesviridae,Human,Vertebrate,1
+NC_004500.1,0.547711086,Betapapillomavirus 4,Betapapillomavirus,Papillomaviridae,dsDNA,Papillomaviridae,Human,Vertebrate,1
+NC_030651.1,0.441727235,Nupapillomavirus 1,Nupapillomavirus,Papillomaviridae,dsDNA,Papillomaviridae,Human,Vertebrate,1
+NC_038524.1,0.313884971,Gammapapillomavirus 23,Gammapapillomavirus,Papillomaviridae,dsDNA,Papillomaviridae,Human,Vertebrate,1
+NC_026818.1,0.271711682,Gemykibivirus humas2,Gemykibivirus,Genomoviridae,ssDNA,Genomoviridae,Human,Vertebrate,1
+NC_001691.1,0.263239161,Gammapapillomavirus 3,Gammapapillomavirus,Papillomaviridae,dsDNA,Papillomaviridae,Human,Vertebrate,1
+NC_024691.1,0.092600811,Gemykibivirus humas1,Gemykibivirus,Genomoviridae,ssDNA,Genomoviridae,Human,Vertebrate,1
+NC_007647.1,3326.842177,Orthohepevirus A,Orthohepevirus,Hepeviridae,ssRNA(+),Hepeviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_006430.1,1285.651766,Mammalian orthorubulavirus 5,Orthorubulavirus,Paramyxoviridae,ssRNA(-),Paramyxoviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_006273.2,469.9701605,Human betaherpesvirus 5,Cytomegalovirus,Herpesviridae,dsDNA,Herpesviridae,Human_and_other_vertebrates,Vertebrate,1
+AC_000008.1,153.6004621,Human mastadenovirus C,Mastadenovirus,Adenoviridae,dsDNA,Adenoviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_024909.1,124.0420218,Gemykrogvirus carib1,Gemykrogvirus,Genomoviridae,ssDNA,Genomoviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_008724.1,91.62697324,Acanthocystis turfacea chlorella virus 1,Chlorovirus,Phycodnaviridae,dsDNA,Phycodnaviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_001806.2,76.00648133,Human alphaherpesvirus 1,Simplexvirus,Herpesviridae,dsDNA,Herpesviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_003266.2,45.01201516,Human mastadenovirus E,Mastadenovirus,Adenoviridae,dsDNA,Adenoviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_038494.1,42.11180212,Gemycircularvirus sewopo4,Gemycircularvirus,Genomoviridae,ssDNA,Genomoviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_002210.1,13.56363752,Influenza B virus,Betainfluenzavirus,Orthomyxoviridae,ssRNA(-),Orthomyxoviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_001479.1,12.41343194,Cardiovirus A,Cardiovirus,Picornaviridae,ssRNA(+),Picornaviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_035460.1,11.49230087,Eptesipox virus,Vespertilionpoxvirus,Poxviridae,dsDNA,Poxviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_006494.1,11.36555849,Vaccinia virus,Orthopoxvirus,Poxviridae,dsDNA,Poxviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_026164.1,4.41965991,Gemycircularvirus sewopo1,Gemycircularvirus,Genomoviridae,ssDNA,Genomoviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_032422.1,3.591002923,Sewage-associated gemycircularvirus 1,Gemycircularvirus,Genomoviridae,ssDNA,Genomoviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_032475.1,2.545627719,Suid alphaherpesvirus 1,Varicellovirus,Herpesviridae,dsDNA,Herpesviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_026162.1,1.985055039,Gemycircularvirus sewopo3,Gemycircularvirus,Genomoviridae,ssDNA,Genomoviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_007367.1,1.73370993,Influenza A virus,Alphainfluenzavirus,Orthomyxoviridae,ssRNA(-),Orthomyxoviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_001498.1,1.106375239,Measles morbillivirus,Morbillivirus,Paramyxoviridae,ssRNA(-),Paramyxoviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_039210.1,1.106375239,Foot-and-mouth disease virus,Aphthovirus,Picornaviridae,ssRNA(+),Picornaviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_018102.1,0.371447287,Human polyomavirus 10,Deltapolyomavirus,Polyomaviridae,dsDNA,Polyomaviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_026165.1,0.315079664,Gemycircularvirus sewopo5,Gemycircularvirus,Genomoviridae,ssDNA,Genomoviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_002645.1,0.31419859,Human coronavirus 229E,Alphacoronavirus,Coronaviridae,ssRNA(+),Coronaviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_007362.1,0.26725141,Influenza A virus,Alphainfluenzavirus,Orthomyxoviridae,ssRNA(-),Orthomyxoviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_007363.1,0.243194419,Influenza A virus,Alphainfluenzavirus,Orthomyxoviridae,ssRNA(-),Orthomyxoviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_026168.1,0.219648921,Gemykibivirus sewopo1,Gemykibivirus,Genomoviridae,ssDNA,Genomoviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_001560.1,0.191850171,Indiana vesiculovirus,Vesiculovirus,Rhabdoviridae,ssRNA(-),Rhabdoviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_005831.2,0.179139662,Human coronavirus NL63,Alphacoronavirus,Coronaviridae,ssRNA(+),Coronaviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_007377.1,0.101982937,Influenza A virus,Alphainfluenzavirus,Orthomyxoviridae,ssRNA(-),Orthomyxoviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_005337.1,0.095446529,Bovine papular stomatitis virus,Parapoxvirus,Poxviridae,dsDNA,Poxviridae,Human_and_other_vertebrates,Vertebrate,1
+NC_001669.1,548.1169608,Macaca mulatta polyomavirus 1,Betapolyomavirus,Polyomaviridae,dsDNA,Polyomaviridae,Non_human_primates,Vertebrate,0.1
+NC_029088.1,27.21403831,Saimiriine gammaherpesvirus 2,Rhadinovirus,Herpesviridae,dsDNA,Herpesviridae,Non_human_primates,Vertebrate,0.1
+NC_038520.1,53.32774006,Dyothetapapillomavirus 1,Dyothetapapillomavirus,Papillomaviridae,dsDNA,Papillomaviridae,Others,Vertebrate,0.1
+NC_013590.2,42.33771967,Felid alphaherpesvirus 1,Varicellovirus,Herpesviridae,dsDNA,Herpesviridae,Others,Vertebrate,0.1
+NC_026144.1,20.88725692,Gemykrogvirus sewopo1,Gemykrogvirus,Genomoviridae,ssDNA,Genomoviridae,Others,Vertebrate,0.1
+NC_030147.1,7.016287725,Gemygorvirus cania1,Gemygorvirus,Genomoviridae,ssDNA,Genomoviridae,Others,Vertebrate,0.1
+NC_026808.1,3.193158257,Gemykibivirus monas1,Gemykibivirus,Genomoviridae,ssDNA,Genomoviridae,Others,Vertebrate,0.1
+NC_029132.1,2.582861824,Macropodid alphaherpesvirus 1,Simplexvirus,Herpesviridae,dsDNA,Herpesviridae,Others,Vertebrate,0.1
+NC_025736.1,2.556108164,Gemycircularvirus furse1,Gemycircularvirus,Genomoviridae,ssDNA,Genomoviridae,Others,Vertebrate,0.1
+NC_005946.1,0.592877896,Frog virus 3,Ranavirus,Iridoviridae,dsDNA,Iridoviridae,Others,Vertebrate,0.1
+NC_040753.1,0.345148202,Picobirnavirus dog/KNA/2015,Picobirnavirus,Picobirnaviridae,dsRNA,Picobirnaviridae,Others,Vertebrate,0.1
+NC_038507.1,0.109868523,Frog virus 3,Ranavirus,Iridoviridae,dsDNA,Iridoviridae,Others,Vertebrate,0.1
+NC_006559.1,151.0873983,Small ruminant morbillivirus,Morbillivirus,Paramyxoviridae,ssRNA(-),Paramyxoviridae,Ungulata,Vertebrate,0.1
+NC_028474.1,137.9319074,Botrytis cinerea mitovirus 4,Mitovirus,Mitoviridae,ssRNA(+),Mitoviridae,Ungulata,Vertebrate,0.1
+NC_035477.1,80.29231606,Gemykibivirus anima1,Gemykibivirus,Genomoviridae,ssDNA,Genomoviridae,Ungulata,Vertebrate,0.1
+NC_025738.1,49.08575638,Gemycircularvirus porci2,Gemycircularvirus,Genomoviridae,ssDNA,Genomoviridae,Ungulata,Vertebrate,0.1
+NC_004560.1,46.99566056,Ovine mastadenovirus A,Mastadenovirus,Adenoviridae,dsDNA,Adenoviridae,Ungulata,Vertebrate,0.1
+NC_030142.1,37.14390665,Gemycircularvirus lamas1,Gemycircularvirus,Genomoviridae,ssDNA,Genomoviridae,Ungulata,Vertebrate,0.1
+NC_024690.1,29.71898416,Gemykrogvirus bovas1,Gemykrogvirus,Genomoviridae,ssDNA,Genomoviridae,Ungulata,Vertebrate,0.1
+NC_030144.1,18.75631239,Gemycircularvirus sheas1,Gemycircularvirus,Genomoviridae,ssDNA,Genomoviridae,Ungulata,Vertebrate,0.1
+NC_030146.1,9.759732243,Gemycircularvirus bovas1,Gemycircularvirus,Genomoviridae,ssDNA,Genomoviridae,Ungulata,Vertebrate,0.1
+NC_030145.1,6.538790372,Gemycircularvirus porci1,Gemycircularvirus,Genomoviridae,ssDNA,Genomoviridae,Ungulata,Vertebrate,0.1
+NC_022798.1,4.544763226,Porcine faeces associated circular DNA molecule-1,,,unknown,Others,Ungulata,Vertebrate,0.1
+NC_034976.1,3.710071046,Goat torovirus,Torovirus,Tobaniviridae,ssRNA(+),Tobaniviridae,Ungulata,Vertebrate,0.1
+NC_028921.1,3.41329768,Swinepox virus,Suipoxvirus,Poxviridae,dsDNA,Poxviridae,Ungulata,Vertebrate,0.1
+NC_030135.1,2.294030086,Llama faeces associated circular DNA virus-1,,,unknown,Others,Ungulata,Vertebrate,0.1
+NC_030150.1,2.119403644,Porcine epidemic diarrhea virus,Alphacoronavirus,Coronaviridae,ssRNA(+),Coronaviridae,Ungulata,Vertebrate,0.1
+NC_002665.1,2.082989862,Bovine gammaherpesvirus 4,Rhadinovirus,Herpesviridae,dsDNA,Herpesviridae,Ungulata,Vertebrate,0.1
+NC_003678.1,1.243125757,Pestivirus A,Pestivirus,Flaviviridae,ssRNA(+),Flaviviridae,Ungulata,Vertebrate,0.1
+NC_030143.1,0.731711567,Gemycircularvirus equas1,Gemycircularvirus,Genomoviridae,ssDNA,Genomoviridae,Ungulata,Vertebrate,0.1
+NC_007447.1,0.527642248,Bovine torovirus,Torovirus,Tobaniviridae,ssRNA(+),Tobaniviridae,Ungulata,Vertebrate,0.1
+NC_003045.1,0.429685967,Betacoronavirus 1,Betacoronavirus,Coronaviridae,ssRNA(+),Coronaviridae,Ungulata,Vertebrate,0.1
+NC_007919.3,0.41747737,Nodamura virus,Alphanodavirus,Nodaviridae,ssRNA(+),Nodaviridae,Ungulata,Vertebrate,0.1
+NC_001844.1,0.28417897,Equid alphaherpesvirus 4,Varicellovirus,Herpesviridae,dsDNA,Herpesviridae,Ungulata,Vertebrate,0.1
+NC_006995.1,0.267522956,Senecavirus A,Senecavirus,Picornaviridae,ssRNA(+),Picornaviridae,Ungulata,Vertebrate,0.1
+NC_006966.1,0.215126726,Mule deerpox virus,Cervidpoxvirus,Poxviridae,dsDNA,Poxviridae,Ungulata,Vertebrate,0.1
+NC_024303.1,0.174271932,Bovine gammaherpesvirus 6,Macavirus,Herpesviridae,dsDNA,Herpesviridae,Ungulata,Vertebrate,0.1
+NC_026732.1,0.161713946,Sclerotinia sclerotiorum mitovirus 3,Mitovirus,Mitoviridae,ssRNA(+),Mitoviridae,Ungulata,Vertebrate,0.1
+NC_001650.2,0.115185928,Equid gammaherpesvirus 2,Percavirus,Herpesviridae,dsDNA,Herpesviridae,Ungulata,Vertebrate,0.1
