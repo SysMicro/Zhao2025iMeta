@@ -18,7 +18,7 @@ library(tidyverse)
 pal1 <- c("#C17360","#EAB88D","#207589","#525E80","#778B89","#DAC798","#7E7E7E")
 pal2 <- c("#C17360","#009193","#EAB88D","#207589","#525E80","#DAC798","#7E7E7E")
 
-sample_HA <- read.csv("data/sample_HA.csv")
+sample_HA <- read.csv("data/Figure2B.sample.HA.csv")
 sample_HA$LandcoverClass <- factor(sample_HA$LandcoverClass, 
                                     levels = c("Agricultural Land","Natural Land","Bare Land","Forest","Grassland",
                                                "Tundra","Wetland")[1:7])
