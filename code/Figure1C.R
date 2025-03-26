@@ -12,8 +12,8 @@ library(ggsci)
 library(reshape2)
 
 
-taxa <- read.csv("data/taxa_vert.csv")
-datatax <- read.csv("data/sample_count_size.csv")
+taxa <- read.csv("data/Figure1C.taxa.vert.csv")
+datatax <- read.csv("data/Figure1C.sample.count.size.csv")
 
 require(ggfortify)
 require(lamW)
