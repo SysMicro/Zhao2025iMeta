@@ -13,7 +13,7 @@ library(reshape2)
 
 
 # read shapefile
-wmap <- readOGR(dsn="data/ne_110m_land", layer="data/ne_110m_land")
+wmap <- readOGR(dsn="data/Figure1A.ne.110m.land", layer="data/Figure1A.ne.110m.land")
 
 # convert to dataframe
 wmap_df <- fortify(wmap)
@@ -33,7 +33,7 @@ theme_opts <-list(theme(panel.grid.minor = element_blank(),
                         plot.title = element_text(size=22,hjust = .5)))
 
 # plot map
-detected <- read.csv("data/sample_detected.csv", header = T)
+detected <- read.csv("data/Figure1A.sample.detected.csv", header = T)
 
 ggplot(wmap_df, aes(long,lat, group=group)) + 
   geom_polygon(fill = "gray90") + 
