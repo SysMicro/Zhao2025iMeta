@@ -11,7 +11,7 @@ library(tidyverse)
 library(ggsci)
 library(reshape2)
 
-otu_vert <- data.frame(t(read.csv("sample_virus_ai_vert.csv", row.names = 1)))
+otu_vert <- data.frame(t(read.csv("data/sample_virus_ai_vert.csv", row.names = 1)))
 
 otu_vert_var <- NULL
 otu_vert_mean <- NULL
