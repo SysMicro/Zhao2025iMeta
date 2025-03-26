@@ -18,7 +18,7 @@ library(sads)
 
 
 
-sample_vert_present_rank3 <- read.csv("sample_detected.csv")
+sample_vert_present_rank3 <- read.csv("data/sample_detected.csv")
 sample_vert_present_rank3$Land <- factor(sample_vert_present_rank3$Land, 
                                          levels = c("Agricultural","Natural")[1:2])
 
