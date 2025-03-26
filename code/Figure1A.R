@@ -13,7 +13,7 @@ library(reshape2)
 
 
 # read shapefile
-wmap <- readOGR(dsn="ne_110m_land", layer="ne_110m_land")
+wmap <- readOGR(dsn="data/ne_110m_land", layer="data/ne_110m_land")
 
 # convert to dataframe
 wmap_df <- fortify(wmap)
@@ -33,28 +33,7 @@ theme_opts <-list(theme(panel.grid.minor = element_blank(),
                         plot.title = element_text(size=22,hjust = .5)))
 
 # plot map
-all <- read.csv("sample_all.csv", header = T)
-
-
-ggplot(wmap_df, aes(long,lat, group=group)) + 
-  geom_polygon(fill = "gray90") + 
-  coord_equal() + 
-  theme_opts+
-  geom_point(data=all[which(all$all_len>90000000),],
-             aes(lon, lat,size=log10(all_len),color=LandcoverClass, shape = Type),
-             alpha=0.4,
-             inherit.aes = FALSE)+
-  scale_size_continuous(range = c(0,7.5))+
-  scale_color_manual(values=c("#C17360","#EAB88D","#207589","#525E80","#778B89","#DAC798","#7E7E7E"))+
-  theme(legend.position = "bottom",legend.title = element_blank())+
-  theme(legend.position = "none")+ 
-  theme(axis.text.x=element_blank(),
-        legend.position = "bottom")
-
-ggsave("all.pdf", 
-       width=36, height=18, units="cm")
-
-detected <- read.csv("sample_detected.csv", header = T)
+detected <- read.csv("data/sample_detected.csv", header = T)
 
 ggplot(wmap_df, aes(long,lat, group=group)) + 
   geom_polygon(fill = "gray90") + 
